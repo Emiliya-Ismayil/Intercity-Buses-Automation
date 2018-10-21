@@ -1,0 +1,20 @@
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\bin\Debug\Tur.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Login.resources
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\bin\Debug\Tur.exe
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\bin\Debug\Tur.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.exe
+c:\users\admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Form1.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.BiletSatis.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.BiletSil.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Sefer.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Otobus.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.KullaniciIslem.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Kullanicilar.resources
+C:\Users\Admin\documents\visual studio 2015\Projects\Tur\Tur\obj\Debug\Tur.Sofor.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Tur - Copy\Tur\bin\Debug\Tur.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Tur - Copy\Tur\obj\Debug\Tur.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Tur - Copy\Tur\obj\Debug\Tur.pdb
